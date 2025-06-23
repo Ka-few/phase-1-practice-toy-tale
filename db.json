@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -46,6 +46,18 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "id": 9,
+      "likes": 1
+    },
+    {
+      "name": "newman",
+      "image": "https://streettracklife.com/cdn/shop/files/IMG_00802_bf48c08b-694a-4ff8-a6e6-aebf5a9c2234.jpg?v=1684850151",
+      "id": 10,
       "likes": 1
     }
   ]
